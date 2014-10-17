@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ogu:home|Door43 (ogu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ogu|d43-ogu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ogu/archive/master.zip|d43-ogu.zip]]
+
+**Recent Changes**
+{{changes>ns = ogu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ogu|Ethnologue data]]
+
